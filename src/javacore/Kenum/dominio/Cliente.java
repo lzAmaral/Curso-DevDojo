@@ -2,9 +2,7 @@ package javacore.Kenum.dominio;
 
 public class Cliente {
 
-   public enum TiposPagamentos{
-        DEBITO,CREDITO
-    }
+
     private String nome;
     private TipoCliente tipoCliente;
     private TiposPagamentos tiposPagamentos;
